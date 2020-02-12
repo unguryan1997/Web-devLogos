@@ -1,0 +1,22 @@
+body{
+    background: blue;
+
+}
+.header{
+    width: 80%;
+    height: 80px;
+   margin: auto;
+}
+a{
+    text-decoration-line: none;
+    font-family: 'Segoe UI';
+    color: chartreuse;
+    font-size: 1.5em;
+    margin: 5px;
+}
+a:hover{
+    color: red;
+    text-decoration-line: underline;
+}
+
+
